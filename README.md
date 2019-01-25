@@ -11,7 +11,7 @@ of 99% for two kinds of targets and 98% for seven distinct targets. Simple data 
 technique has been implemented due to the scarcity of SAR image samples. Regularization
 technique has been used to avoid overfitting.
 
-##Future Work
+## Future Work
 It can be seen that simple CNN used in this approach can classify SAR image targets with an
 accuracy of 98% but to make this model more robust, tests have to be made at different depression
 angles and different kinds of SAR Imagery targets. Instead of augmentation, Transfer
